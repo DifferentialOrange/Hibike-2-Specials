@@ -16,21 +16,21 @@ Video File: [Glitch] Hibike! Euphonium 2 - Specials 01 (BD 1280x720 x264 AAC).mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 53
-Active Line: 54
-Video Position: 4271
+Scroll Position: 12
+Active Line: 18
+Video Position: 3650
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Maiandra GD,47,&H00F7F1F5,&H000000FF,&H001D2440,&H002A2A2A,-1,0,0,0,100,100,0,0,1,2.13333,0.6,2,5,5,35,1
-Style: Title,Californian FB,59,&H00C2A815,&H000000FF,&H00C4A90D,&H002A2A2A,-1,0,0,0,100,100,0,0,1,0,0,2,5,5,35,1
-Style: End,Neon 80s,77,&H007D15DE,&H000000FF,&H00CC4C3B,&H002A2A2A,-1,0,0,0,100,100,0,0,1,2.13333,0,8,5,5,35,1
-Style: Sign,Calisto MT,39,&H00000000,&H000000FF,&H00F5F5F5,&H00000000,0,0,0,0,108,116,0,-5,3,2.3,0,2,10,10,10,1
+Style: Default,Open Sans,50,&H00F7F1F5,&H000000FF,&H001D2440,&H002A2A2A,-1,0,0,0,100,100,0,0,1,2.13333,0.6,2,5,5,35,1
+Style: Title,Arial,59,&H00C2A815,&H000000FF,&H00C4A90D,&H002A2A2A,-1,0,0,0,100,100,0,0,1,0,0,2,5,5,35,1
+Style: End,Arial,77,&H007D15DE,&H000000FF,&H00CC4C3B,&H002A2A2A,-1,0,0,0,100,100,0,0,1,2.13333,0,8,5,5,35,1
+Style: Sign,Tahoma,39,&H00000000,&H000000FF,&H00F5F5F5,&H00000000,0,0,0,0,108,116,0,-5,3,2.3,0,2,10,10,10,1
 Style: Ending,Ubuntu Light,40,&H00C0B811,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,3.825,0,7,0,0,63,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:05.00,Title,,0,0,0,,{\pos(642,524)}Добро пожаловать на фестиваль {\c&H9144F3&} поцелуев {\c&HC2A815&} и фейерверков!
+Dialogue: 0,0:00:00.00,0:00:05.00,Title,,0,0,0,,{\pos(642,524)}Добро пожаловать на фестиваль {\c&H9144F3&} поцелуев{\c&HC2A815&} и фейерверков!
 Dialogue: 0,0:00:08.19,0:00:08.94,Default,,0,0,0,,Рико...
 Dialogue: 0,0:00:09.90,0:00:12.90,Default,,0,0,0,,Я стесняюсь делать это здесь...
 Dialogue: 0,0:00:13.07,0:00:15.28,Default,,0,0,0,,Говорю тебе, здесь нечего стесняться.
@@ -47,8 +47,8 @@ Dialogue: 0,0:00:36.14,0:00:36.93,Default,,0,0,0,,Фестиваль!
 Dialogue: 0,0:00:36.93,0:00:37.85,Default,,0,0,0,,И когда запустят фейерверки...
 Dialogue: 0,0:00:38.22,0:00:39.72,Default,,0,0,0,,Чмооооооок~
 Dialogue: 0,0:00:39.72,0:00:41.97,Default,,0,0,0,,Почему вы сейчас разговаривали так синхронно?
-Dialogue: 0,0:00:42.22,0:00:46.23,Default,,0,0,0,,Мне просто показалось, что вы двое слишком скромные,\N так что я решила вас немного подбодрить.
-Dialogue: 0,0:00:46.23,0:00:49.23,Default,,0,0,0,,Подбодрить? Разве тебе не хотелось \Nпросто засунуть нос в чужие дела?
+Dialogue: 0,0:00:42.22,0:00:46.23,Default,,0,0,0,,Мне просто показалось, что вы двое слишком скромные,\N так что я решила вас немного подтолкнуть.
+Dialogue: 0,0:00:46.23,0:00:49.23,Default,,0,0,0,,Подтолкнуть? Разве тебе не хотелось \Nпросто засунуть нос в чужие дела?
 Dialogue: 0,0:00:49.23,0:00:52.57,Default,,0,0,0,,А? Если уж на то пошло, не ты ли всё это начала?
 Dialogue: 0,0:00:52.57,0:00:56.70,Default,,0,0,0,,Я просто искренне их поддерживала, вот и всё.
 Dialogue: 0,0:00:56.70,0:00:58.53,Default,,0,0,0,,Ну же, вы двое...
@@ -84,4 +84,4 @@ Dialogue: 0,0:02:09.60,0:02:11.15,Default,,0,0,0,,Это сестра Гото.
 Dialogue: 0,0:02:17.07,0:02:17.90,Default,,0,0,0,,Гото!
 Dialogue: 0,0:02:20.70,0:02:22.37,Default,,0,0,0,,Что здесь происходит?
 Dialogue: 0,0:02:23.08,0:02:27.12,End,,0,0,0,,{\pos(640,64)}КО{\c&H26E5EF&\3c&HE7F47E&}Н{\c&H62F778}E{&\3c&HBD5A5A&}Ц
-Dialogue: 0,0:02:27.31,0:02:33.12,Ending,,0,0,0,,{\pos(72,59)} {\c&HC2A815&}Перевод с английского:\NSomething Went Wrong\N\N Источник англ. перевода:\N Glitch
+Dialogue: 0,0:02:27.31,0:02:33.12,Ending,,0,0,0,,{\pos(72,59)} {\c&HC2A815&}Перевод с английского:\NSomething went wrong\N\N Источник англ. перевода:\N Glitch
