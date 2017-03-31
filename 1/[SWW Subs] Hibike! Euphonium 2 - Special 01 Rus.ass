@@ -18,7 +18,7 @@ Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
 Scroll Position: 48
 Active Line: 53
-Video Position: 3772
+Video Position: 3793
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -82,6 +82,6 @@ Dialogue: 0,0:02:04.89,0:02:06.10,Default,,0,0,0,,Негодяй.
 Dialogue: 0,0:02:06.52,0:02:08.27,Default,,0,0,0,,Гото!
 Dialogue: 0,0:02:09.60,0:02:11.15,Default,,0,0,0,,Это сестра Гото-куна.
 Dialogue: 0,0:02:17.07,0:02:17.90,Default,,0,0,0,,Гото-кун?!
-Dialogue: 0,0:02:20.70,0:02:22.37,Default,,0,0,0,,Что здесь происходит?
-Dialogue: 0,0:02:23.08,0:02:27.12,End,,0,0,0,,{\pos(640,64)}КО{\c&H26E5EF&\3c&HE7F47E&}Н{\c&H62F778}E{&\3c&HBD5A5A&}Ц
-Dialogue: 0,0:02:27.31,0:02:33.12,Ending,,0,0,0,,{\pos(72,59)} {\c&HC2A815&}Перевод с английского:\NSomething went wrong\N\N Источник англ. перевода:\N Glitch
+Dialogue: 0,0:02:20.70,0:02:22.37,Default,,0,0,0,,Что вообще происходит..?
+Dialogue: 0,0:02:23.08,0:02:27.12,End,,0,0,0,,{\pos(640,64)}КО{\c&H26E5EF&}Н{\c&HE3EF7B&}E{\c&H64F57A&}Ц
+Dialogue: 0,0:02:27.12,0:02:33.12,Ending,,0,0,0,,{\pos(72,59)} {\c&HC2A815&}Перевод с английского:\NSomething went wrong\N\N Источник англ. перевода:\N Glitch

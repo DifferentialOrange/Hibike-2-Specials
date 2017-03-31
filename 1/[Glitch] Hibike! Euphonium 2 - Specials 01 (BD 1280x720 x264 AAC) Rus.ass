@@ -16,9 +16,9 @@ Video File: [Glitch] Hibike! Euphonium 2 - Specials 01 (BD 1280x720 x264 AAC).mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 12
-Active Line: 18
-Video Position: 3650
+Scroll Position: 51
+Active Line: 53
+Video Position: 3561
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -83,5 +83,5 @@ Dialogue: 0,0:02:06.52,0:02:08.27,Default,,0,0,0,,Гото!
 Dialogue: 0,0:02:09.60,0:02:11.15,Default,,0,0,0,,Это сестра Гото.
 Dialogue: 0,0:02:17.07,0:02:17.90,Default,,0,0,0,,Гото!
 Dialogue: 0,0:02:20.70,0:02:22.37,Default,,0,0,0,,Что здесь происходит?
-Dialogue: 0,0:02:23.08,0:02:27.12,End,,0,0,0,,{\pos(640,64)}КО{\c&H26E5EF&\3c&HE7F47E&}Н{\c&H62F778}E{&\3c&HBD5A5A&}Ц
+Dialogue: 0,0:02:23.08,0:02:27.12,End,,0,0,0,,{\pos(640,64)}КО{\c&H26E5EF&}Н{\c&H62F778}E{&\3c&HBD5A5A&}Ц
 Dialogue: 0,0:02:27.31,0:02:33.12,Ending,,0,0,0,,{\pos(72,59)} {\c&HC2A815&}Перевод с английского:\NSomething went wrong\N\N Источник англ. перевода:\N Glitch

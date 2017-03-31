@@ -15,9 +15,10 @@ Audio File: [Glitch] Hibike! Euphonium 2 - Specials 02 (BD 1280x720 x264 AAC).mk
 Video File: [Glitch] Hibike! Euphonium 2 - Specials 02 (BD 1280x720 x264 AAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Active Line: 45
-Video Position: 2566
+Video Zoom Percent: 0.375000
+Scroll Position: 49
+Active Line: 52
+Video Position: 5216
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -81,5 +82,5 @@ Dialogue: 0,0:02:27.69,0:02:29.76,Default,,0,0,0,,Грудь-сенпай!
 Dialogue: 0,0:02:30.00,0:02:31.40,Default,,0,0,0,,Куда это ты?
 Dialogue: 0,0:02:31.40,0:02:33.50,Default,,0,0,0,,В конце концов мы вернулись к грудям!?
 Dialogue: 0,0:02:34.60,0:02:36.30,Default,,0,0,0,,Что вообще происходит..?
-Dialogue: 0,0:02:37.14,0:02:41.14,End,,0,0,0,,{\pos(640,64)}КО{\c&H26E5EF&\3c&HE7F47E&}Н{\c&H62F778}E{&\3c&HBD5A5A&}Ц
+Dialogue: 0,0:02:37.14,0:02:41.14,End,,0,0,0,,{\pos(640,64)}КО{\c&H26E5EF&}Н{\c&HE3EF7B&}E{\c&H64F57A&}Ц
 Dialogue: 0,0:02:41.14,0:02:47.14,Ending,,0,0,0,,{\pos(72,59)} {\c&HC2A815&}Перевод с английского:\NSomething went wrong\N\N Источник англ. перевода:\N Glitch
